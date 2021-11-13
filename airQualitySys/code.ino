@@ -30,14 +30,6 @@ const unsigned char tree [] PROGMEM = {
   0x00, 0x07, 0xfe, 0x00, 0x0f, 0xff, 0x00, 0x1f, 0xff, 0x80, 0x00, 0xf0, 0x00, 0x00, 0xf0, 0x00
 };
 
-
-
-
- 
-//char auth[] = "sfedhTry_1oamaquCCLWqDXGJ-hVq9fD";    
-//char ssid[] = "vivo1951";                          
-//char pass[] = "naveen12164";
-
 #define SEALEVELPRESSURE_HPA (1013.25)
  
 Bsec iaqSensor;
